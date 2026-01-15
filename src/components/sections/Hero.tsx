@@ -61,7 +61,7 @@ export function Hero({ lang }: HeroProps) {
               {t.primaryCta}
             </a>
             <a
-              href="tel:+49123456789"
+              href="tel:+4917673954858"
               className="inline-flex justify-center rounded-lg border border-slate-700 bg-slate-900/60 px-6 py-3 text-sm font-semibold text-slate-100 transition hover:border-amber-400 hover:text-amber-300"
             >
               {t.secondaryCta}
